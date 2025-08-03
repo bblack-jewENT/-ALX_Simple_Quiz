@@ -17,3 +17,12 @@ body {
     margin-bottom: 20px;
 }
 
+input[type="radio"] {
+    margin-right: 10px;
+}
+
+label {
+    margin-right: 30px;
+    cursor: pointer;
+}
+
