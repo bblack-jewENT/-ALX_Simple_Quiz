@@ -1,16 +1,22 @@
+
+
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Poppins';
     padding: 20px;
 }
-
+   
 #quiz-container {
     max-width: 600px;
+    font-size: 20px;
     margin: auto;
     padding: 20px;
     border: 1px solid #ddd;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: lightblue;
+    color: #ffff;
 }
+
 
 #quiz-question {
     font-size: 20px;
