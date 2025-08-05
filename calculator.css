@@ -17,3 +17,10 @@ input[type="number"] {
     width: 200px;
     font-size: 16px;
 }
+
+button {
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
