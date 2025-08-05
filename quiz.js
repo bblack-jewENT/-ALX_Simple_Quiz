@@ -21,7 +21,4 @@ function checkAnswer() {
     }
 }
 
-submit.addEventListener('click', (event) => {
-    event.preventDefault();
-    checkAnswer();
-});
+submit.addEventListener('click', checkAnswer);
